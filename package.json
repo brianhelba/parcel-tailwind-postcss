@@ -2,7 +2,8 @@
   "name": "parcel-tailwind-postcss",
   "private": true,
   "scripts": {
-    "build": "parcel build --no-cache styles.css --dist-dir dist"
+    "build": "parcel build --no-cache styles.css --dist-dir dist",
+    "watch": "parcel watch --no-cache styles.css --dist-dir dist"
   },
   "dependencies": {
     "tailwindcss": "4.1.6"
