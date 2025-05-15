@@ -6,10 +6,10 @@
     "watch": "parcel watch --no-cache styles.css --dist-dir dist"
   },
   "dependencies": {
-    "tailwindcss": "4.1.6"
+    "tailwindcss": "4.1.7"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.6",
+    "@tailwindcss/postcss": "^4.1.7",
     "parcel": "^2.15.0"
   },
   "postcss": {
