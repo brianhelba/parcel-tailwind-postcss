@@ -3,9 +3,9 @@
   "private": true,
   "scripts": {
     "build": "parcel build --no-cache styles.css --dist-dir dist",
-    "watch": "parcel watch --no-cache styles.css --dist-dir dist"
   },
   "dependencies": {
+    "daisyui": "^5.0.35",
     "tailwindcss": "4.1.7"
   },
   "devDependencies": {
